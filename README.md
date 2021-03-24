@@ -26,6 +26,7 @@ Useful count:These shows the usefulness of drug as a ranking.
 Sex:These are gender of various patients.It contains male and female.
 
 Conclusion:
+
 In the dataset I have done all the necessary pre-processing steps. Then I have made some useful visualizations out of it. After that Classification of side effects of a drug called ‘Cymbalta’ is done.
 The Side effect of the drug is best modelled by Gradient Boosting without doing any scaling and standardization. People in the age group 45-54 mostly used this drug and within that the male ratio was higher. People with the condition 'Major Depressive Disorder' consumed this drug more. Over all by comparing with race also, the male ratio is higher.
 
